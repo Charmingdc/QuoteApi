@@ -3,6 +3,30 @@
 
 A simple, serverless API that serves mood categorized quotes. The quotes are available in JSON format and are stored in a `.json` file. This API is deployed on Vercel and can be accessed from the endpoint below.
 
+## Currently supported categories 
+- Anger
+- Courage 
+- Failure 
+- Health 
+- Jealousy 
+- Love
+- Patience 
+- Relationship
+- Respect 
+- Sad
+- Smile
+- Strength 
+- Success 
+- Faith 
+- Inspirational 
+- Thankful 
+- Truth
+- Wisdom
+- Motivational 
+- Life
+- Morning 
+
+
 ## API Endpoint
 
 You can access the quotes by making a `GET` request to:
