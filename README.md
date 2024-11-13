@@ -28,7 +28,7 @@ https://quote-api-ashen.vercel.app/api/quotes
    Example response:
    ```json
    {
-    "quotes": {
+    "moods": {
       "anger": [
       "Anger is one letter short of danger.",
       "The best way to deal with anger is to not let it control you.",
