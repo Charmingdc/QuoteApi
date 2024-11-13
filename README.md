@@ -24,7 +24,8 @@ A simple, serverless API that serves mood categorized quotes. The quotes are ava
 - Wisdom
 - Motivational 
 - Life
-- Morning 
+- Morning
+- Uplifting
 
 
 ## API Endpoint
