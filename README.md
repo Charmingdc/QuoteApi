@@ -1,7 +1,7 @@
 
 # Quote API
 
-A simple, serverless API that serves random quotes. The quotes are available in JSON format and are stored in a `.json` file. This API is deployed on Vercel and can be accessed from the endpoint below.
+A simple, serverless API that serves mood categorized quotes. The quotes are available in JSON format and are stored in a `.json` file. This API is deployed on Vercel and can be accessed from the endpoint below.
 
 ## API Endpoint
 
