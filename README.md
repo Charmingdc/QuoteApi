@@ -20,10 +20,10 @@ https://quote-api-ashen.vercel.app/api/quotes
    ```bash
    curl https://quote-api-ashen.vercel.app/api/quotes
    ```
-   The response will be a JSON array of quotes.
+   The response will be a JSON of object of arrays of quotes.
 
 2. **Response Format**:
-   The API will return a JSON response containing objects of array of quotes.
+   The API will return a JSON response containing objects of arrays of quotes.
 
    Example response:
    ```json
