@@ -112,3 +112,9 @@ To run the API locally:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+
+## Socials
+- Facebook: [Charmingdc](https://www.facebook.com/profile.php?id=61554495275289)
+- X: [Charmingdc 🎯](https://x.com/Charmingdc01?t=Ui8naP3g7jA6NoejvGyoGQ&s=09)
+- TikTok: [Charmingdc](https://www.tiktok.com/@charmingdc01?_t=8rOvHIYhIJE&_r=1)
