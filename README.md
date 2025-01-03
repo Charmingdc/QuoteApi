@@ -29,6 +29,7 @@ A simple, serverless API that serves mood categorized quotes. The quotes are ava
 - Stressed 
 - Anxious
 - Calm
+- gratitude 
 
 
 ## API Endpoint
